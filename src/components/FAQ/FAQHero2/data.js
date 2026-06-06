@@ -1,0 +1,14 @@
+export const categories = ['All', 'Getting Started', 'Mentorship', 'Pricing', 'Community', 'Technical'];
+
+export const faqs = [
+  { cat: 'Getting Started', q: 'What exactly is PathBridge and how is it different from LinkedIn?', a: 'PathBridge is a career acceleration platform focused on active, structured growth — not passive networking. While LinkedIn is a directory, PathBridge is a guided journey with mentors, curated learning, and real community accountability.' },
+  { cat: 'Getting Started', q: 'Do I need to be from a specific industry to join?', a: 'Not at all! PathBridge welcomes professionals from tech, finance, healthcare, design, marketing, and beyond. Our matching engine finds the right mentor regardless of your industry.' },
+  { cat: 'Getting Started', q: 'How quickly can I get matched with a mentor?', a: 'Most members are matched within 48 hours of completing their profile. Our AI matching system considers your goals, experience level, industry, and learning style.' },
+  { cat: 'Mentorship', q: 'How are mentors verified on PathBridge?', a: 'Every mentor goes through a 3-step verification: identity check, professional history validation, and a live interview with our team. We also collect ongoing feedback from mentees to maintain quality.' },
+  { cat: 'Mentorship', q: "Can I switch mentors if it's not a good fit?", a: 'Absolutely. We know chemistry matters. You can request a rematch anytime within your first 3 sessions — no questions asked. Our goal is your growth, not locking you in.' },
+  { cat: 'Mentorship', q: 'What does a typical mentorship session look like?', a: 'Sessions are 45-60 minutes via video call. Mentors help you with goal-setting, reviewing your progress, giving industry insights, and preparing for specific challenges like interviews or promotions.' },
+  { cat: 'Pricing', q: 'Is PathBridge free to use?', a: 'PathBridge has a free tier that gives you access to community forums, public events, and 1 mentor introduction. Premium plans unlock unlimited mentorship, learning paths, and career analytics.' },
+  { cat: 'Pricing', q: 'What are the premium plan options?', a: 'We offer three tiers: Starter (₹999/month), Growth (₹1999/month), and Pro (₹3499/month). Annual plans give you up to 40% savings. All plans include a 14-day free trial.' },
+  { cat: 'Community', q: 'How does the PathBridge community work?', a: 'Our community is organized into industry-specific circles, goal-based pods, and city chapters. Members share resources, celebrate wins, and hold each other accountable in a positive, spam-free environment.' },
+  { cat: 'Technical', q: 'Is my data safe on PathBridge?', a: 'Yes. We are SOC 2 Type II certified and GDPR compliant. Your data is encrypted at rest and in transit. We never sell your data to third parties — your privacy is non-negotiable.' },
+];
